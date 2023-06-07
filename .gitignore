@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 # Word2Vec
-w2v_model/
+# w2v_model/
 
 # Quora question pairs dataset
-train.csv
-test.csv
+#train.csv
+#test.csv
